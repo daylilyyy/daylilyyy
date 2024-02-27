@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/sourcetree-4D5EFD?style=for-the-badge&logo=sourcetree&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5FADF6&height=200&section=footer&text=Thank%20you%20&fontSize=90&fontColor=1F486E&fontAlignY=70" />
 </div>
