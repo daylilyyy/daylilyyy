@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/sourcetree-4D5EFD?style=for-the-badge&logo=sourcetree&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/slack-E01E5A?style=for-the-badge&logo=slack&logoColor=white"/>
 <br>
 <br>
   
